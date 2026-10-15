@@ -1,0 +1,6 @@
+{
+  "name": "Smart Exam Hall Planner & Faculty Duty Scheduler",
+  "description": "Comprehensive college and university examination hall seating allocator, faculty invigilation duty scheduler, timetable manager, and reporting system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
